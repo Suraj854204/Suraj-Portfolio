@@ -15,7 +15,7 @@ export const profile = {
   // Resume lists "linkedin.com/in/suraj-singh" — confirm this is your exact URL.
   linkedin: "https://www.linkedin.com/in/suraj-singh",
   leetcode: "https://leetcode.com/u/CodeSurajX/",
-  geeksforgeeks: "https://www.geeksforgeeks.org/profile/surajsingh01",
+  geeksforgeeks: "https://www.geeksforgeeks.org/profile/surajsingh01?tab=activity",
   codechef: "https://www.codechef.com/users/codersurajx",
   photo: "/suraj.jpg",
   about: [
